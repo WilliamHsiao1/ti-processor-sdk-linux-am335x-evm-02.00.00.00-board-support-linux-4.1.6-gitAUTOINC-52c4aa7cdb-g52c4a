@@ -1,0 +1,1 @@
+# ti-processor-sdk-linux-am335x-evm-02.00.00.00-board-support-linux-4.1.6-gitAUTOINC-52c4aa7cdb-g52c4a
